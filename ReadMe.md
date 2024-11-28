@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 A Robotics and Minecraft plugins developer.
 
 
